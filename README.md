@@ -1,4 +1,4 @@
-# Genomic data science bootscamp 
+# Dive into Genomic Data Science (DGDS)
 
 ## Introduction
 
@@ -14,14 +14,21 @@
 이 bootscamp 를 통해, Linux git bash python 에 대해 더 잘 알고 활용을 했으면 하는 바램을 남깁니다.  
 
 
-## Sylabus
+## 목차
 
-This repo is designed to use and learn bash
+- Part I. Understanding the basic biology and biomedical data.
+- Part II. Genomic data scientist's toolkits  
+  Linux, Bash, Awk, R, Perl, Python
+- Part III. Data sources
+- Part IV. DATA
+- Part V. Statistical Inference
+- Part VI. Machine Learning
 
+## Part1. Understanding the basic biology and biomedical data.
 
-## 
+## Part2. Genomic data scientist's toolkits
 
-### Bash
+#### A. bash/linux/awk
 
 1. [Terminal/ssh connection/configuration of ssh connection]()
 2. [Bash / bash shortcuts]()
@@ -29,13 +36,15 @@ This repo is designed to use and learn bash
 4. [string manipulation]()
 5. [Piping and I/O redirection]()
 
-### awk
+#### B. R/Bioconductor
 
 1.
 
-### Bash Programming
+### C. Python/Biopython
 
-1. if 
-2. case 
-3. for
-4. getopt
+
+### D. Perl
+
+
+
+### Part3
